@@ -122,5 +122,6 @@ import {
       </Box>
     );
   }
+//function ListaPostagem(),
   
   export default ListaPostagens;
