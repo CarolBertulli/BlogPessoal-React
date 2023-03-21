@@ -88,5 +88,6 @@ function Footer() {
     </>
   );
 }
+//footerComponent,
 
 export default Footer;
